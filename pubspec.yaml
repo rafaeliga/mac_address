@@ -21,7 +21,3 @@ flutter:
       android:
         package: com.vdtlabs.get_mac
         pluginClass: GetMacPlugin
-      ios:
-        pluginClass: GetMacPlugin
-      windows:
-        pluginClass: MacAddressPlugin
